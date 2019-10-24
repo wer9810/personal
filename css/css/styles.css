@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    color: #555555
+    background-color: #f4f4f4;
+    font: normal 16px arial, helvetica, sans-serif;
+    line-height:1.6em;
+    margin:0;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+.box-1{
+    background-color: #333333;
+    color: #ffffff;
+    border: 5px red solid;
+    border-bottom-width: 10px;
+    border-top-style: dotted;
+    padding: 20px;
+    margin: 20px; 0px;
+
+}
+.box-1 h1{
+    font-family: tahoma;
+    font-weight: 800;
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    word-spacing: 0.5em;
+
+}
